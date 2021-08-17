@@ -22,3 +22,9 @@ function countDown() {
 setInterval(function() {
     countDown();
 },1000)
+
+
+window.replainSettings = { id: '0c64cf5c-37bb-4c04-abc3-91aeaff6dfcb' };
+(function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;
+var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
+})('https://widget.replain.cc/dist/client.js');
