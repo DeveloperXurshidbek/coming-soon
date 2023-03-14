@@ -1,5 +1,5 @@
 window.onload = function() {
-    window.location.href = "www.instagram.com/mister.xurshidbey"
+    window.location.href = "www.instagram.com/"
 
 }
 
